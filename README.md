@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ON8RU/101-soft-skills/blob/main/README.en.md)
+
 # 101 Soft Skills
 
 
