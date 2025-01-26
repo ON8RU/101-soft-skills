@@ -37,10 +37,10 @@ Soft Skills - это личностные, интеллектуальные, с�
    - 4.4. [Работа с неопределённостью](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F4.%20Adaptability%2F4.4.%20Navigating%20Uncertainty.md)  
 
 5. **Толерантность к неопределённости**  
-   - 5.1. Управление тревогой  
-   - 5.2. Принятие амбивалентности  
-   - 5.3. Фокус на процессе, а не результате  
-   - 5.4. Поиск смысла в хаосе  
+   - 5.1. [Управление тревогой](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F5.%20Tolerance%20for%20Uncertainty%2F5.1.%20Anxiety%20Management.md)  
+   - 5.2. [Принятие амбивалентности](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F5.%20Tolerance%20for%20Uncertainty%2F5.2.%20Embracing%20Ambivalence.md)  
+   - 5.3. [Фокус на процессе, а не результате](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F5.%20Tolerance%20for%20Uncertainty%2F5.3.%20Focus%20on%20Process%20Over%20Outcome.md)  
+   - 5.4. [Поиск смысла в хаосе](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F5.%20Tolerance%20for%20Uncertainty%2F5.4.%20Finding%20Meaning%20in%20Chaos.md)  
 
 ---
 
