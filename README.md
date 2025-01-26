@@ -25,10 +25,10 @@ Soft Skills - это личностные, интеллектуальные, с�
    - 2.4. [Адаптация целей к изменениям](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F2.%20Goal-Setting%2F2.4.%20Adapting%20Goals%20to%20Changes.md)  
 
 3. **Самодисциплина**  
-   - 3.1. Управление временем  
-   - 3.2. Контроль импульсивности  
-   - 3.3. Формирование привычек  
-   - 3.4. Отсроченное вознаграждение  
+   - 3.1. [Управление временем](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F3.%20Self-Discipline%2F3.1.%20Time%20Management.md)  
+   - 3.2. [Контроль импульсивности](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F3.%20Self-Discipline%2F3.2.%20Impulse%20Control.md)  
+   - 3.3. [Формирование привычек](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F3.%20Self-Discipline%2F3.3.%20Habit%20Formation.md)  
+   - 3.4. [Отсроченное вознаграждение](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F3.%20Self-Discipline%2F3.4.%20Delayed%20Gratification.md)  
 
 4. **Адаптивность**  
    - 4.1. Гибкость мышления  
