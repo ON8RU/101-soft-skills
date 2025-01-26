@@ -1,3 +1,5 @@
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/ON8RU/101-soft-skills/blob/main/README.md)
+
 # 101 Soft Skills
 
 Here’s the translated version of your text in English, preserving the structure, numbering, and precise terminology:
