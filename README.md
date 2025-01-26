@@ -16,7 +16,7 @@ Soft Skills - это личностные, интеллектуальные, с�
    - 1.1. [Анализ мотивов](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F1.%20Self-Reflection%2F1.1.%20Analysis%20of%20Motives.md)
    - 1.2. [Оценка последствий действий](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F1.%20Self-Reflection%2F1.2.%20Evaluation%20of%20Action%20Consequences.md)
    - 1.3. [Осознание когнитивных искажений](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F1.%20Self-Reflection%2F1.3.%20Awareness%20of%20Cognitive%20Biases.md)
-   - 1.4. Рефлексивное мышление  
+   - 1.4. [Рефлексивное мышление](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F1.%20Self-Reflection%2F1.4.%20Reflective%20Thinking.md)
 
 2. **Целеполагание**  
    - 2.1. Определение измеримых целей  
