@@ -52,10 +52,11 @@ Soft Skills - это личностные, интеллектуальные, с�
    - 6.4. [Оценка аргументации](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F6.%20Critical%20Thinking%2F6.4.%20Argument%20Evaluation.md)  
 
 7. **Системное мышление**  
-   - 7.1. Выявление взаимосвязей  
-   - 7.2. Моделирование сложных процессов  
-   - 7.3. Прогнозирование последствий  
-   - 7.4. Холистический подход  
+   - 7.1. [Выявление взаимосвязей](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F7.%20Systems%20Thinking%2F7.1.%20Identifying%20Interconnections.md)  
+   - 7.2. [Моделирование сложных процессов](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F7.%20Systems%20Thinking%2F7.2.%20Modeling%20Complex%20Processes.md)  
+   - 7.3. [Прогнозирование последствий](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F7.%20Systems%20Thinking%2F7.3.%20Predicting%20Consequences.md
+)  
+   - 7.4. [Холистический подход](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F7.%20Systems%20Thinking%2F7.4.%20Holistic%20Approach.md)  
 
 8. **Креативность**  
    - 8.1. Генерация идей  
