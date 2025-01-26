@@ -31,10 +31,10 @@ Soft Skills - это личностные, интеллектуальные, с�
    - 3.4. [Отсроченное вознаграждение](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F3.%20Self-Discipline%2F3.4.%20Delayed%20Gratification.md)  
 
 4. **Адаптивность**  
-   - 4.1. Гибкость мышления  
-   - 4.2. Быстрое обучение в новых условиях  
-   - 4.3. Принятие альтернативных сценариев  
-   - 4.4. Работа с неопределённостью  
+   - 4.1. [Гибкость мышления](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F4.%20Adaptability%2F4.1.%20Mental%20Flexibility.md)  
+   - 4.2. [Быстрое обучение в новых условиях](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F4.%20Adaptability%2F4.2.%20Rapid%20Learning%20in%20New%20Environments.md)  
+   - 4.3. [Принятие альтернативных сценариев](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F4.%20Adaptability%2F4.3.%20Acceptance%20of%20Alternative%20Scenarios.md)  
+   - 4.4. [Работа с неопределённостью](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F4.%20Adaptability%2F4.4.%20Navigating%20Uncertainty.md)  
 
 5. **Толерантность к неопределённости**  
    - 5.1. Управление тревогой  
