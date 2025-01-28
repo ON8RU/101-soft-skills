@@ -1,0 +1,10 @@
+export ENV_PROMPT_FILE=""
+export ENV_GROUP_SKILLS=""
+export ENV_CATEGORY_SKILLS=""
+export ENV_SOFT_SKILL=""
+export ENV_PERSON=""
+export ENV_HISTORY=""
+export ENV_QUOTE=""
+export ENV_FILMS=""
+
+. ./script.sh > "./prompts/$ENV_PROMPT_FILE"
