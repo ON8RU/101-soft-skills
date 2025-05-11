@@ -154,7 +154,7 @@ Soft Skills - это личностные, интеллектуальные, с�
 22. **Смелость**
     - 22.1. [Принятие рисков](https://github.com/ON8RU/101-soft-skills/blob/main/RU/22.%20Courage/22.1.%20Risk-Taking.md)
     - 22.2. [Отстаивание границ](https://github.com/ON8RU/101-soft-skills/blob/main/RU/22.%20Courage/22.2.%20Asserting%20Boundaries.md)
-    - 22.3. [Говорение «нет»](https://github.com/ON8RU/101-soft-skills/blob/main/RU/22.%20Courage/22.3.%20Saying%20"No".md)
+    - 22.3. [Говорение «нет»](https://github.com/ON8RU/101-soft-skills/blob/main/RU%2F22.%20Courage%2F22.3.%20Saying%20No.md)
     - 22.4. [Действие вопреки страху](https://github.com/ON8RU/101-soft-skills/blob/main/RU/22.%20Courage/22.4.%20Acting%20Despite%20Fear.md)
 
 23. **Инициативность**
