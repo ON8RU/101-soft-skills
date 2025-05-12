@@ -122,6 +122,8 @@
 ---
 ---
 
+![Фото Ивана](https://github.com/ON8RU/101-soft-skills/blob/6e8cd60bc550bc8f1b72ef9ddde69f9408dd3df4/682260c49e7ec20001298762.png)
+
 ### **Иван (Проблемы с коммуникацией и командной работой)**  
 ---
 
@@ -183,6 +185,8 @@
 
 ---
 ---
+
+![Фото Алисы](https://github.com/ON8RU/101-soft-skills/blob/6e8cd60bc550bc8f1b72ef9ddde69f9408dd3df4/68227701db8dc40001f6cf0b.png)
 
 ### **Алиса (Творческий хаос и прокрастинация)**
 
@@ -255,6 +259,8 @@
 
 ---
 ---
+
+![Фото Марии](https://github.com/ON8RU/101-soft-skills/blob/6e8cd60bc550bc8f1b72ef9ddde69f9408dd3df4/68227963db8dc40001f6cf26.png)
 
 ### **Мария (Страх неопределённости и рисков)**
 
@@ -329,6 +335,8 @@
 
 ---
 ---
+
+![Фото Алекса](https://github.com/ON8RU/101-soft-skills/blob/6e8cd60bc550bc8f1b72ef9ddde69f9408dd3df4/682276239e7ec200012987e3.png)
 
 ### **Алекс (Импульсивный лидер с проблемами самоконтроля)**
 
